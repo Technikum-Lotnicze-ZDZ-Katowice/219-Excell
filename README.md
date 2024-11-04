@@ -21,7 +21,7 @@ Dodaj nowy arkusz, zmień mu nazwę na Zadanie 2, a następnie za pomocą odpowi
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 20 losowych dat w kolumnie a w kolejnej kolumnie wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą.
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w kolumnie a w kolejnej kolumnie wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
 
 #### Zadanie 4 (2 punkty)
 
@@ -29,6 +29,6 @@ W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbud
 
 #### Zadanie 5 (5 punktów)
 
-Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać co najmniej 500 osób z następującymi danymi: Imię, Nazwisko, Wiek, Adres
+Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać co najmniej 500 osób z następującymi danymi: Imię, Nazwisko, Wiek, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
 
 Po zakończeniu pracy zapisz arkusz w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
