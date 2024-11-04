@@ -23,7 +23,7 @@ który samochód waży najmniej
 jaka jest różnica między najcięższym i najlżejszym samochodem
 
 #### Zadanie 2. (2 punkty)
-Dodaj nowy arkusz, zmień mu nazwę na zadanie 2, a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1 tona “górny pokład”.
+Dodaj nowy arkusz, zmień mu nazwę na Zadanie 2, a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1 tona “górny pokład”.
 
 #### Zadanie 3. (5 punktów)
 
