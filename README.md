@@ -23,6 +23,8 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 - Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1 tona “górny pokład”.
 - Sprawdź ile popłynie na górnym a ile na dolnym pokładzie.
 
+![Zadanie 2](Zadanie2.PNG)
+
 #### Zadanie 3. (5 punktów)
 
 Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w kolumnie a w kolumnie obok wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
