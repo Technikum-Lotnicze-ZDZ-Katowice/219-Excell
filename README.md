@@ -9,8 +9,8 @@ Zaznacz na czerwono (tło komórki), który samochód ma najdłuższą nazwę mo
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów
 - średnią masę własną samochodu
-- który samochód waży najwięcej (wklej nr VIN - napisz markę i model)
-- który samochód waży najmniej (wklej nr VIN - napisz markę i model)
+- który samochód waży najwięcej (wklej nr VIN - napisz markę i model w kolumnie obok)
+- który samochód waży najmniej (wklej nr VIN - napisz markę i model w kolumnie obok)
 - jaka jest różnica między najcięższym i najlżejszym samochodem
 - ile jest samochodów czerwonych
 
