@@ -25,7 +25,7 @@ Dodaj nowy arkusz, zmień mu nazwę na Zadanie 2, a następnie za pomocą odpowi
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w kolumnie a w kolejnej kolumnie wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w kolumnie a w kolumnie obok wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
 
 #### Zadanie 4 (4 punkty)
 
