@@ -35,6 +35,9 @@ Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych da
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY)
 
+![Zadanie 4](Zadanie4.PNG)
+
+
 #### Zadanie 5 (3 punktów)
 
 Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, Wiek, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
