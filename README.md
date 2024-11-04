@@ -27,6 +27,8 @@ Dodaj nowy arkusz, zmień mu nazwę na Zadanie 2, a następnie za pomocą odpowi
 
 Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w kolumnie a w kolumnie obok wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
 
+![Zadanie 3](Zadanie3.PNG)
+
 #### Zadanie 4 (4 punkty)
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY)
