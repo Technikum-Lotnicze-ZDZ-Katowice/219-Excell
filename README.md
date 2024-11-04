@@ -31,6 +31,6 @@ W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbud
 
 #### Zadanie 5 (3 punktów)
 
-Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać co najmniej 500 osób z następującymi danymi: Imię, Nazwisko, Wiek, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
+Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, Wiek, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
 
 Po zakończeniu pracy zapisz arkusz w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
