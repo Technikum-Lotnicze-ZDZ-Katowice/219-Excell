@@ -14,6 +14,8 @@ Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i
 - jaka jest różnica między najcięższym i najlżejszym samochodem
 - ile jest samochodów czerwonych
 
+![Zadanie 1](Zadanie1.PNG)
+
 #### Zadanie 2. (2 punkty)
 Dodaj nowy arkusz, zmień mu nazwę na Zadanie 2, a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: 
 - Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1 tona “górny pokład”.
