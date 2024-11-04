@@ -31,7 +31,7 @@ Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych da
 
 ![Zadanie 3](Zadanie3.PNG)
 
-#### Zadanie 4 (7 punkty)
+#### Zadanie 4 (7 punktów)
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY)
 
