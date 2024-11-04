@@ -20,7 +20,7 @@ Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i
 
 #### Zadanie 2. (2 punkty)
 Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: 
-- Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1.5 tona “górny pokład”.
+- Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1.5 tony “górny pokład”.
 - Sprawdź ile popłynie na górnym a ile na dolnym pokładzie.
 
 ![Zadanie 2](Zadanie2.PNG)
