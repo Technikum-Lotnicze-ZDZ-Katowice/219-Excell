@@ -7,12 +7,14 @@ Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 #### Zadanie 1. (6 punktów)
 Zaznacz na czerwono (tło komórki), który samochód ma najdłuższą nazwę modelu,
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
-|- łączna masę własną samochodów
+- łączna masę własną samochodów
 - średnią masę własną samochodu
 - który samochód waży najwięcej (wklej nr VIN - napisz markę i model)
 - który samochód waży najmniej (wklej nr VIN - napisz markę i model)
 - jaka jest różnica między najcięższym i najlżejszym samochodem
-- ile jest samochodów czerwonych|![Zadanie 1](Zadanie1.PNG)|
+- ile jest samochodów czerwonych
+
+![Zadanie 1](Zadanie1.PNG)|
 
 
 
