@@ -46,5 +46,3 @@ Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzi
 
 Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
 
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?11127403E30676A4F0520E572BBBC441C2BF
