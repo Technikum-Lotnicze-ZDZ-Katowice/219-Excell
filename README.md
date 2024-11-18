@@ -27,7 +27,7 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “PINIEDZIAŁEK” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “PONIEDZIAŁEK” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
 <!--
