@@ -4,7 +4,7 @@
 
 Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 
-#### Zadanie 1. (6 punktów)
+#### Zadanie 1. (7 punktów)
 Zaznacz na czerwono (tło komórki) jeden z samochodów który samochód ma najkrótszą nazwę modelu,
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów
@@ -18,7 +18,7 @@ Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i
 
 
 
-#### Zadanie 2. (2 punkty)
+#### Zadanie 2. (4 punkty)
 Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: 
 - Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1.5 tony “górny pokład”.
 - Sprawdź i napisz ile popłynie na górnym a ile na dolnym pokładzie.
@@ -27,7 +27,7 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “ŚWIĘTO” jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “PINIEDZIAŁEK” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
 <!--
@@ -38,7 +38,7 @@ W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbud
 ![Zadanie 4](Zadanie4.PNG)
 -->
 
-#### Zadanie 5 (7 punktów)
+#### Zadanie 5 (5 punktów)
 
 Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
 
