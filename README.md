@@ -30,13 +30,13 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “PONIEDZIAŁEK” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
-<!--
+
 #### Zadanie 4 (7 punktów)
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY)
 
 ![Zadanie 4](Zadanie4.PNG)
--->
+
 
 #### Zadanie 4 (4 punktów)
 
