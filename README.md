@@ -4,7 +4,7 @@
 
 Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 
-#### Zadanie 1. (7 punktów)
+#### Zadanie 1. (7/6 punktów)
 Zaznacz na czerwono (tło komórki) jeden z samochodów który samochód ma najkrótszą nazwę modelu,
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów
@@ -31,7 +31,7 @@ Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh 
 
 ![Zadanie 3](Zadanie3.PNG)
 
-#### Zadanie 4 (7 punktów)
+#### Zadanie 4 (5 punktów)
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY)
 
