@@ -23,6 +23,9 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 - Jeśli samochód będzie ważył więcej niż 1.5 tony to wypisz obok jego nazwy tekst “dolny pokład” a jeśli mniejsza niż 1.5 tony “górny pokład”.
 - Sprawdź i napisz ile popłynie na górnym a ile na dolnym pokładzie.
 
+#### Zadanie 2. (4 punkty)
+Zdefiniuj dwie nowe komórki w których pojawią się parametry (liczby) opisane jako "Średnia liczba pasażerów" "Średnia waga pasażera". Dodaj nową kolumnę o nagłówku Maasa z pasażerami" gdzie pojawi się wynik sumy masy każdego samochodu oraz ilocznu Sredniej liczby pasażerów i Średniej wagi pasażera. Zsumuj ponownie masę wszystkich samochodów z pasażerami i umieść w tabelce jako łączna masa samochodów z pasażerami tak, aby zmieniając parametry zmieniała się również łączna masa. 
+
 ![Zadanie 2](Zadanie2.PNG)
 
 #### Zadanie 3. (5 punktów)
