@@ -4,7 +4,7 @@
 
 Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 
-#### Zadanie 1. (7/6 punktów)
+#### Zadanie 1. (7 punktów)
 Zaznacz na czerwono (tło komórki) jeden z samochodów który ma najdłuższą nazwę modelu,
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów
@@ -31,7 +31,7 @@ Zdefiniuj dwie nowe komórki w których pojawią się parametry (liczby) opisane
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w jednej kolumnie, a w kolumnie obok wypisz słowo “NIEDZIELA” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w jednej kolumnie, a w kolumnie obok wypisz słowo “ŚWIĘTO” ale tylko jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
 
@@ -41,13 +41,13 @@ W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbud
 
 ![Zadanie 4](Zadanie4.PNG)
 
-
+<!--
 #### Zadanie 5 (4 punktów)
 
 Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, email, płeć a następnie zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie "Zadanie 5".
 
 ![Zadanie 5](Zadanie5.PNG)
-
+-->
 
 
 Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
