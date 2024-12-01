@@ -44,9 +44,11 @@ Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzi
 
 ![Zadanie 5](Zadanie5.PNG)
 
-### Zadanie 6 (5 punktów)
 
-W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosfery na ziemi. Zapreznuj dane w sposób pozwalający na porównanie poszczególnych składników. 
 
 Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
 
+
+## Praca domowa
+
+W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosfery ziemi. Zapreznuj dane w sposób pozwalający na porównanie poszczególnych składników. 
