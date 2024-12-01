@@ -12,7 +12,7 @@ Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i
 - który samochód waży najwięcej (nr VIN)
 - który samochód waży najmniej (nr VIN)
 - jaka jest różnica między najcięższym i najlżejszym samochodem
-- ile jest samochodów czerwonych
+- ile jest samochodów zielonych
 
 ![Zadanie 1](Zadanie1.PNG)|
 
