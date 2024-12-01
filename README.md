@@ -5,12 +5,12 @@
 Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 
 #### Zadanie 1. (7/6 punktów)
-Zaznacz na czerwono (tło komórki) jeden z samochodów który samochód ma najkrótszą nazwę modelu,
+Zaznacz na czerwono (tło komórki) jeden z samochodów który ma najdłuższą nazwę modelu,
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów
 - średnią masę własną samochodu
-- który samochód waży najwięcej
-- który samochód waży najmniej
+- który samochód waży najwięcej (nr VIN)
+- który samochód waży najmniej (nr VIN)
 - jaka jest różnica między najcięższym i najlżejszym samochodem
 - ile jest samochodów czerwonych
 
@@ -27,7 +27,7 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 
 #### Zadanie 3. (5 punktów)
 
-Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 kolejnychh dat w kolumnie a w kolumnie obok wypisz słowo “PONIEDZIAŁEK” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
+Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w jednej kolumnie, a w kolumnie obok wypisz słowo “NIEDZIELA” ale tylko jeśli dzień jest poniedziałkiem. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
 
@@ -38,12 +38,15 @@ W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbud
 ![Zadanie 4](Zadanie4.PNG)
 
 
-#### Zadanie 4 (4 punktów)
+#### Zadanie 5 (4 punktów)
 
-Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, email, płeć i zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie Zadanie 5.
+Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, email, płeć a następnie zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie "Zadanie 5".
 
 ![Zadanie 5](Zadanie5.PNG)
 
+### Zadanie 6 (5 punktów)
+
+W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosfery na ziemi. Zapreznuj dane w sposób pozwalający na porównanie poszczególnych składników. 
 
 Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
 
