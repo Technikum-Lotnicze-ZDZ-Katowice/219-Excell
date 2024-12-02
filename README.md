@@ -58,7 +58,7 @@ Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie fol
 
 W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosfery ziemi. Zapreznuj dane w sposób pozwalający na porównanie poszczególnych składników. 
 
-!Powietrze](Powietrze.PNG)
+![Powietrze](Powietrze.PNG)
 
 ## Tabele i wykresy przestawne
 
