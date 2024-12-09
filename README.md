@@ -17,7 +17,7 @@ Wypisz w tabeli w arkuszu dane w tonach:
 
 <!--
 ![Zadanie 1](Zadanie1.PNG)|
-
+-->
 
 #### Zadanie 2
 Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: 
@@ -26,11 +26,11 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 
 
 ![Zadanie 2](Zadanie2.PNG)
--->
+
 #### Zadanie 2
 Zdefiniuj dwie nowe komórki w których pojawią się parametry (liczby) opisane jako "Średnia liczba pasażerów" "Średnia waga pasażera". Dodaj nową kolumnę o nagłówku Maasa z pasażerami" gdzie pojawi się wynik sumy masy każdego samochodu oraz ilocznu Sredniej liczby pasażerów i Średniej wagi pasażera. Zsumuj ponownie masę wszystkich samochodów z pasażerami i umieść w tabelce jako łączna masa samochodów z pasażerami tak, aby zmieniając parametry zmieniała się również łączna masa. 
 
-<!--
+
 ![Zadanie 2](Zadanie2a.PNG)
 
 #### Zadanie 4
@@ -38,14 +38,14 @@ Zdefiniuj dwie nowe komórki w których pojawią się parametry (liczby) opisane
 Dodaj nowy arkusz i zmień jego nazwę na “Zadanie 3”. Wypisz 30 losowych dat w jednej kolumnie, a w kolumnie obok wypisz słowo “ŚWIĘTO” ale tylko jeśli dzień jest niedzielą. (postaraj się użyć tylko dwie kolumny)
 
 ![Zadanie 3](Zadanie3.PNG)
--->
+
 #### Zadanie 3
 
 W arkuszu 4 wygeneruj przy pomocy formuł excella 20 losowych adresów IPv4 zbudowanych z czterech liczb z zakresu 0-255. Przykładowy adres to: 158.69.31.17 (użyj funkcji ZŁĄCZ.TEKSTY). Uzyj tylko jednej kolumny.
 
 ![Zadanie 4](Zadanie4.PNG)
 
-<!--
+
 #### Zadanie 6
 
 Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzie zawierać 500 osób z następującymi danymi: Imię, Nazwisko, email, płeć a następnie zaimportuj wygenerowany plik do Excell jako kolejny arkusz o nazwie "Zadanie 5".
@@ -53,7 +53,7 @@ Korzystając z generatora danych www.mockaroo.com wygeneruj bazę, która będzi
 ![Zadanie 5](Zadanie5.PNG)
 
 Po zakończeniu pracy zapisz skoroszyt w utworzonym przez siebie na pulpicie folderze nazwanym wg następującego schematu: “Sprawdzian_ImięNazwisko_Klasa”
--->
+
 
 #### Zadanie 7
 
