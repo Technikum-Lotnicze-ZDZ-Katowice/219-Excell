@@ -9,12 +9,14 @@ Zaznacz na czerwono (tło komórki) jeden z samochodów który ma najdłuższą 
 Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów czerwonych
 - średnią masę własną samochodów czerwonych 
-- który samochód waży najwięcej (nr VIN)
-- który samochód waży najmniej (nr VIN)
-- jaka jest różnica między najcięższym i najlżejszym samochodem
+- który z samochódów czerwonych waży najwięcej (nr VIN)
+- który z samochódów czerwonych waży najmniej (nr VIN)
+- jaka jest różnica między najcięższym i najlżejszym samochodem czerwonym
 - ile jest samochodów zielonych
 
+<!--
 ![Zadanie 1](Zadanie1.PNG)|
+-->
 
 #### Zadanie 2
 Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następnie za pomocą odpowiedniej funkcji dokonaj sprawdzenia: 
