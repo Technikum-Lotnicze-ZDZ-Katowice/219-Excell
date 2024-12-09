@@ -6,7 +6,8 @@ Otwórz plik Sprawdzian.xlsx a następnie wykonaj poniższe zadania:
 
 #### Zadanie 1
 Zaznacz na czerwono (tło komórki) jeden z samochodów który ma najdłuższą nazwę modelu,
-Aby przeprawić promem wszystkie auta musisz podać ich masę. Zapisz poniżej i wypisz w tabeli w arkuszu dane w tonach:
+Aby przeprawić promem wszystkie auta musisz podać ich masę. 
+Wypisz w tabeli w arkuszu dane w tonach:
 - łączna masę własną samochodów czerwonych
 - średnią masę własną samochodów czerwonych 
 - który z samochódów czerwonych waży najwięcej (nr VIN)
