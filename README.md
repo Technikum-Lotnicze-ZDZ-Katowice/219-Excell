@@ -65,4 +65,4 @@ W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosf
 
 Sprawdź częstotliwość wypadania 1,2,3,4,5,6 oczek dla 100, 500, 1000 i 2000 rzutów kostką. Wyniki pokaż na wykresie i zaobserwuj jak ilość losowań wpływa na rozkład wyników. Do porównania zastosuj wartości procentowe (ile procent wszystkich losowań wypadło X oczek).
 
-![Kostka](Kostka.PNG)
+![Kostka](RzutyKostka.PNG)
