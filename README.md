@@ -27,7 +27,7 @@ Dodaj nową kolumnę do istniejącego arkusza i nazwij ją "Pokład" a następni
 
 ![Zadanie 2](Zadanie2.PNG)
 
-#### Zadanie 2
+#### Zadanie 3
 Zdefiniuj dwie nowe komórki w których pojawią się parametry (liczby) opisane jako "Średnia liczba pasażerów" "Średnia waga pasażera". Dodaj nową kolumnę o nagłówku Maasa z pasażerami" gdzie pojawi się wynik sumy masy każdego samochodu oraz ilocznu Sredniej liczby pasażerów i Średniej wagi pasażera. Zsumuj ponownie masę wszystkich samochodów z pasażerami i umieść w tabelce jako łączna masa samochodów z pasażerami tak, aby zmieniając parametry zmieniała się również łączna masa. 
 
 
