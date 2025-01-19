@@ -66,3 +66,6 @@ W oparciu o ogólnie dostępne dane przygotuj wykres prezentujący skład atmosf
 Sprawdź częstotliwość wypadania 1,2,3,4,5,6 oczek dla 100, 500, 1000 i 2000 rzutów kostką. Wyniki pokaż na wykresie i zaobserwuj jak ilość losowań wpływa na rozkład wyników. Do porównania zastosuj wartości procentowe (ile procent wszystkich losowań wypadło X oczek).
 
 ![Kostka](RzutyKostka.PNG)
+
+#### Zadananie 9
+Za pomocą programu graficznego przygotuj naklejki na plecak dla wszystkich uczniów w klasie. Naklejka powina zawierać Imię i Nazwisko ucznia, fikcyjny numer telefonu (wygenerowany losowo). Przygouj dwie wersje naklejek dla chłopców i dla dziewczynek różniące się grafiką.
