@@ -68,4 +68,4 @@ Sprawdź częstotliwość wypadania 1,2,3,4,5,6 oczek dla 100, 500, 1000 i 2000 
 ![Kostka](RzutyKostka.PNG)
 
 #### Zadananie 9
-Za pomocą programu graficznego przygotuj projekt naklejki na plecak dla wszystkich uczniów w klasie. Naklejka powinna zawierać Imię i Nazwisko ucznia, fikcyjny numer telefonu (wygenerowany losowo). oraz fikcyjny adres. Przygouj dwie wersje naklejek dla chłopców i dla dziewczynek różniące się grafiką. (zapisać jako dokument Word i Excell oraz dokument wynikowy PDF z naklejkami). Do wygenerowania dany adresowych zastosuj https://mockaroo.com/ (kształt inny niż postokąt i koło, z wypełnieniem)
+Za pomocą programu graficznego przygotuj projekt naklejki na plecak dla wszystkich uczniów w klasie. Naklejka powinna zawierać Imię i Nazwisko ucznia, fikcyjny numer telefonu (wygenerowany losowo). oraz fikcyjny adres. Przygouj dwie wersje naklejek dla chłopców i dla dziewczynek różniące się grafiką. (zapisać jako dokument Word i Excell oraz dokument wynikowy PDF z naklejkami). Do wygenerowania dany adresowych zastosuj https://mockaroo.com/ (kształt inny niż postokąt i koło, z wypełnieniem i przezroczystym tłem)
